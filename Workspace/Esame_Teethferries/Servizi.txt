@@ -1,0 +1,5 @@
+Sardegna1;07:30;12:30;Dente Appuntito;€ 25,00
+Sardegna1;09:30;13:30;Zanna Affilata;€ 45,00
+Sardegna1;06:30;19:30;Canoa a remi;€ 5,00
+Sardegna2;14:20;19:30;Dente Appuntito;€ 25,00
+Sardegna2;15:00;20:30;Zanna Affilata;€ 45,00

@@ -1,0 +1,5 @@
+Zcar		137000	automobile di lusso ibrida	AUTOMOBILI
+SmartOven	480	forno intelligente basato su Home Manager	ELETTRODOMESTICI
+SmartFridge	650	frigorifero intelligente basato su Home Manager	ELETTRODOMESTICI
+SmartLamp	32	lampadina intelligente multi-standard	ELETTRODOMESTICI
+Acqua di Z	75	Acqua di Zeta	PROFUMI

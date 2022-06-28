@@ -1,0 +1,28 @@
+Sardegna1	Livorno		Olbia
+Sardegna2	Olbia		Livorno
+Sardegna3	Livorno		Golfo Aranci
+Sardegna4	Golfo Aranci	Livorno
+Sardegna5	Livorno		Cagliari
+Sardegna6	Cagliari	Livorno
+Sardegna7	Civitavecchia	Olbia
+Sardegna8	Olbia		Civitavecchia
+Sardegna9	Civitavecchia	Cagliari
+Sardegna10	Cagliari		Civitavecchia
+Sardegna11	Genova		Porto Torres
+Sardegna12	Porto Torres	Genova
+Sardegna13	Genova		Olbia
+Sardegna14	Olbia		Genova
+Sardegna15	Napoli		Cagliari
+Sardegna16	Cagliari	Napoli
+Sardegna17	Palermo		Cagliari
+Sardegna18	Cagliari	Palermo
+Corsica1	La Spezia	Olbia
+Corsica2	Olbia		La Spezia
+Corsica3	Savona		Calvi
+Corsica4	Calvi		Savona
+Corsica5	Savona		Bastia
+Corsica6	Bastia		Savona
+Corsica7	Savona		Ajaccio
+Corsica8	Ajaccio		Savona
+Corsica9	Livorno		Bastia
+Corsica10	Bastia		Livorno
